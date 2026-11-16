@@ -1,5 +1,9 @@
 
 # ✈️ AeroResilience AI
+
+### 🌐 [Launch the Live Interactive Dashboard](https://aeroresilience-ai-gkeyrq3wppgtavyqkbjfms.streamlit.app/)
+
+**Explore the six-module airline operations research platform through Streamlit.**
 ### Intelligent Airline Disruption Prediction, Recovery Optimization & Resilience Analytics
 
 AeroResilience AI is an end-to-end airline operations research platform that combines **machine learning, network analytics, operations research, passenger recovery modeling, financial analysis, and interactive decision intelligence**.
