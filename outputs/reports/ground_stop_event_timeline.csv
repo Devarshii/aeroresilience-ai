@@ -1,0 +1,4 @@
+EventDate,EventTimeET,Event,Description,EvidenceType,Source
+2026-11-13,15:30,Nationwide Ground Stop,FAA technical instability prompted a nationwide ground stop.,Reported incident,https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers
+2026-11-13,20:15,Air Traffic Resumes,FAA reported that the system had stabilized and air traffic resumed.,Reported incident,https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers
+2026-11-14,,Recovery Continues,DOT reported that airspace was open but delays and cancellations could continue.,Date-level official update,https://www.transportation.gov/briefing-room/icymi-us-transportation-secretary-sean-p-duffy-provides-update-restoration-airspace
