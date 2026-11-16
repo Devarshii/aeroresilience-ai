@@ -1,0 +1,5 @@
+Policy,TotalModeledDelayMinutes,NoStopDelayMinutes,IncrementalDelayMinutes,DelayedFlights,DownstreamDelayedFlights,IncrementalImprovementPercent
+FCFS,105836.0,2126.0,103710.0,698,521,0.0
+Network Priority,109233.0,2126.0,107107.0,682,505,-3.275479703018031
+Fair,107433.0,2126.0,105307.0,681,504,-1.5398707935589624
+Aircraft Aware,98218.0,2126.0,96092.0,687,510,7.345482595699547

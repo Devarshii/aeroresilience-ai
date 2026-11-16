@@ -1089,6 +1089,7 @@ with st.sidebar:
 
     pages = [
         "Executive Overview",
+        "Ground Stop Case Study",
         "Flight Disruption Intelligence",
         "Aircraft Recovery",
         "Crew Recovery",
@@ -1334,6 +1335,10 @@ impact of every modeled recovery decision.
 # ============================================================
 # PAGE 2 — FLIGHT DISRUPTION INTELLIGENCE
 # ============================================================
+
+elif page == "Ground Stop Case Study":
+    from src.dashboard.ground_stop_case_study_page import render_ground_stop_case_study
+    render_ground_stop_case_study()
 
 elif page == "Flight Disruption Intelligence":
 
