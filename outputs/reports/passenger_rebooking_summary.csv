@@ -1,0 +1,3 @@
+Policy,SimulatedPassengersAtRisk,PassengersRebooked,PassengersUnaccommodated,RebookingRatePercent,FullyRebookedGroups,AlternativeFlightsUsed
+FCFS,3383,3146,237,92.99438368312148,197,308
+AircraftAware,3379,3133,246,92.7197395679195,196,306

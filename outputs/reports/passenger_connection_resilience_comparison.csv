@@ -1,0 +1,6 @@
+MinimumConnectionMinutes,FCFSPassengersAtRisk,AircraftAwarePassengersAtRisk,RiskReductionPassengers,RiskReductionPercentVsFCFS,LowerPassengerRiskPolicy
+30,3344,3379,-35,-1.0466507177033493,FCFS
+45,3383,3379,4,0.1182382500738989,AircraftAware
+60,3419,3415,4,0.11699327288680901,AircraftAware
+75,3428,3420,8,0.23337222870478413,AircraftAware
+90,3428,3428,0,0.0,Tie

@@ -1,0 +1,5 @@
+Scenario,TotalFlights,FCFSCoveredFlights,AircraftAwareCoveredFlights,FCFSUncoveredFlights,AircraftAwareUncoveredFlights,FCFSCoveragePercent,AircraftAwareCoveragePercent,AircraftAwareCoverageDifferencePoints,BetterCrewCoveragePolicy
+50% reserve availability,177,177,177,0,0,100.0,100.0,0.0,Tie
+Normal availability,177,177,177,0,0,100.0,100.0,0.0,Tie
+Reserve duty reduced by 60 min,177,177,177,0,0,100.0,100.0,0.0,Tie
+Reserves arrive 60 min late,177,177,176,0,1,100.0,99.43502824858757,-0.5649717514124291,FCFS

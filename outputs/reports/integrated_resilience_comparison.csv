@@ -1,0 +1,5 @@
+MinimumTurnMinutes,FCFSIncrementalDelayMinutes,AircraftAwareIncrementalDelayMinutes,DelayMinutesAvoided,AircraftDelayImprovementPercent,FCFSIllustrativeCostUSD,AircraftAwareIllustrativeCostUSD,IllustrativeCostReductionUSD,IllustrativeCostReductionPercent,LowerIllustrativeCostPolicy,PassengerAndCrewBaselinesHeldFixed
+10.0,98589.0,91568.0,7021.0,7.121484141232795,4748335.0,4433600.0,314735.0,6.628323401781888,AircraftAware,True
+20.0,103710.0,96092.0,7618.0,7.345482595699547,4978780.0,4637180.0,341600.0,6.861118587284436,AircraftAware,True
+30.0,108786.0,100879.0,7907.0,7.268398507160848,5207200.0,4852595.0,354605.0,6.809897833768628,AircraftAware,True
+40.0,113381.0,105286.0,8095.0,7.139644208465263,5413975.0,5050910.0,363065.0,6.706070862905721,AircraftAware,True

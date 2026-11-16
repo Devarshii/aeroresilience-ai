@@ -1,0 +1,2 @@
+Capacity,TotalFlights,SelectedAlerts,ActualAlertRate,Precision,Recall,TruePositives,FalsePositives,FalseNegatives,TrueNegatives
+0.2,608389,121667,0.19998224819975377,0.49070002547938224,0.34347420865503,59702,61965,114116,372606

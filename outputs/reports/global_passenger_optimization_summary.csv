@@ -1,0 +1,3 @@
+Policy,PassengersAtRisk,GreedyRebooked,OptimizedRebooked,GreedyUnaccommodated,OptimizedUnaccommodated,AdditionalPassengersAccommodated,GreedyPassengerArrivalDelayMinutes,OptimizedPassengerArrivalDelayMinutes,GreedyAvgArrivalDelayMinutes,OptimizedAvgArrivalDelayMinutes
+FCFS,3383,3146,3146,237,237,0,2633620.0,2633620.0,837.1328671328671,837.1328671328671
+AircraftAware,3379,3133,3133,246,246,0,2664617.0,2664617.0,850.5001595914459,850.5001595914459
