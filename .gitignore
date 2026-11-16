@@ -1,0 +1,45 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Large data files
+*.parquet
+*.feather
+*.pkl
+*.pickle
+
+# Temporary files
+*.log
+*.tmp
+.ipynb_checkpoints/
+
+# Streamlit credentials
+.streamlit/secrets.toml
+
+# Local generated outputs
+outputs/
